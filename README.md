@@ -1,8 +1,6 @@
 # AsynchronousFifo
 A specialized buffer used to transfer data between circuits running on different clocks. It ensures reliable communication by synchronizing read/write pointers and handling timing differences safely. 
 
-# Asynchronous FIFO 
-
 ## Overview
 
 implements a dual-clock FIFO buffer with separate write and read clock domains, designed for safely transferring data between two asynchronous clock domains. It integrates write and read pointer control, pointer synchronization, and dual-port RAM for data storage.
