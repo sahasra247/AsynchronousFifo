@@ -84,6 +84,6 @@ This design is suitable for scenarios where data must be reliably passed from on
 
 
 
-s.
+
 
 
